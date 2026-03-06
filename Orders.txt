@@ -1,6 +1,6 @@
 This is a Order file 
 
-<<<<<<< Updated upstream
+<<<<<<< Updated upstrseam
 join 2 
 a = 10
 b = 20
@@ -9,3 +9,7 @@ Watch
 Mobile 
 PC
 >>>>>>> Stashed changes
+
+
+char a = 'A'
+char b = 'B'
