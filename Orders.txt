@@ -1,5 +1,11 @@
 This is a Order file 
 
+<<<<<<< Updated upstream
 join 2 
 a = 10
 b = 20
+=======
+Watch 
+Mobile 
+PC
+>>>>>>> Stashed changes
