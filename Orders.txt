@@ -1,20 +1,2 @@
 This is a Order file 
 
-<<<<<<< Updated upstrseam
-join 2 
-a = 10
-b = 20
-=======
-Watch 
-Mobile 
-PC
->>>>>>> Stashed changes
-
-
-<<<<<<< HEAD
-char a = 'A'
-char b = 'B'
-=======
-boolean a = true
-boolean b = true
->>>>>>> c0c9343186d1d2341bd17ffbed72c7ec7df37bf8
